@@ -1,9 +1,8 @@
-Before runing this project on your system you must install these packages using 'npm'
+# To run the project:
 
-Pakages:
-1. express
-2. nodemon
-3. mongoose
-4. express-handlebars
-5. body-parser
-6. dotenv - (optional)
+* npm install express
+* npm install nodemon
+* npm install mongoose
+* npm install express-handlebars
+* npm install body-parser
+* npm install dotenv (Optional)
